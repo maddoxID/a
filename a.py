@@ -11,4 +11,6 @@ if(Username=='arimengen' and Password=='arimengen12'):
     print 'login..'
 else:
     print 'Password anda Salah'
-    os.system(clear)
+    os.system("clear")
+
+    
