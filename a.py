@@ -1,3 +1,4 @@
+import os
 import sys
 
 print("halo")
@@ -9,5 +10,5 @@ Password=raw_input("Password: ")
 if(Username=='arimengen' and Password=='arimengen12'):
     print 'login..'
 else:
-    sys.os(clear)
     print 'Password anda Salah'
+    os.system(clear)
