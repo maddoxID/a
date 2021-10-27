@@ -13,6 +13,7 @@ Password=raw_input("Password: ")
 if(Username=='arimengen' and Password=='arimengen12'):
     print
     print 'login..'
+
     os.system("clear")
 
     def ketik(s):
@@ -24,7 +25,7 @@ if(Username=='arimengen' and Password=='arimengen12'):
 ketik("halo, Terimakah Telah Menggunakan Skrip Arimengen :)\n Jangan Lupa Subscribe Channel Gua!!")
 
         
-    os.system("sudo apt-get install cmatrix")
+    
     os.system("cmatirx")
 else:
     print 'Password anda Salah'
