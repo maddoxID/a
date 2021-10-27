@@ -24,9 +24,6 @@ if(Username=='arimengen' and Password=='arimengen12'):
 
 ketik("halo, Terimakah Telah Menggunakan Skrip Arimengen :)\n Jangan Lupa Subscribe Channel Gua!!")
 
-        
-    
-    os.system("cmatirx")
 else:
     print 'Password anda Salah'
     os.system("clear")
